@@ -1,0 +1,96 @@
+.navbar {
+    background-color: rgb(184, 184, 184);
+    padding: 0.1%;
+    position: fixed;
+    width: 100%;
+}
+.bg-image {
+    /* margin-top: 10%; */
+    padding-top: 10%;
+}
+
+body {
+    margin: 0;
+}
+
+li {
+    list-style: none;
+    display: inline;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+
+
+.home,.about,.blog,.contact {
+    position: relative;
+    left: 30%;
+    padding: 40px;
+    font-size: x-large;
+    text-transform: uppercase;
+}
+
+.bg {
+    width: 100%;
+}
+
+
+.ft {
+    margin-left: 5%;
+    display: inline-block;
+
+    
+}
+
+
+
+.underline {
+    text-decoration: underline;
+}
+
+.yogurt {
+    display: inline;
+    margin-left: 15%;
+}
+
+.ft-color {
+    color: brown;
+}
+
+.cream-cup {
+    height: 80px;
+}
+
+.footer {
+    margin-top: 4%;
+    background-color: rgb(204, 207, 6);
+    padding: 2%;
+    /* width: 100%; */
+}
+
+.one,.two,.three,.four {
+    /* margin: 10%; */
+    /* padding: 27; */
+    /* width: 100%; */
+    position: relative;
+    left: 15%;
+    /* padding: 29; */
+    display: inline-block;
+    color: white;
+}
+
+.two, .three, .four {
+    margin-left: 14%;
+    color: white;
+}
+
+.fm {
+    margin-left: 15%;
+}
+
+
+
+
